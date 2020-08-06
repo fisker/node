@@ -160,7 +160,7 @@ if (enabled) {
 If this program is run with `NODE_DEBUG=foo` in the environment, then it will
 output something like:
 
-```txt
+```console
 hello from foo [123]
 ```
 
